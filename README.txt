@@ -4,6 +4,8 @@ This tool does SSG.
 * [Jekyll Website](https://jekyllrb.com/)
 * [Jekyll Github Repo](https://github.com/jekyll/jekyll)
 
-
 * Edit _config.yml, index.md and execute jekyll to convert to static webpages.
+* Run '$ bundle exec jekyll build' or '$ bundle exec jekyll b' to build to _site/.
+* Copy _site/ to jtvisona.github.io folder.
+
 
