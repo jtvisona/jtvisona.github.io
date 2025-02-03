@@ -6,7 +6,7 @@
 * [Masters Thesis - *Sentiment Analysis with NLTK and Entity Linking*](https://github.com/jtvisona/shared-docs/blob/main/jtv-SAwNLTKandEL.pdf)
 * [My Blog](https://medium.com/@jonathanvisona)
 
----
+![Data, Computers, and Education](/images/data_computers_education.png "a title")
 
 Welcome to my personal webpage. Until recently, I worked for a small company called Proaxys Labs nebuously in the field of software. I am an ISBE licensed educator (PEL 7-12 endorsements in math and CS) and former business analyst for CVS who taught at [Columbia College Chicago](https://www.colum.edu/) and worked for [CVS Health](https://www.cvshealth.com/) among others. I've recently graduated from [Governors State University](https://www.govst.edu/) with my MS in Computer Science having earned a BA in mathematics and a BS in computer science and my personal and professional interests are heavily intertwined.
 
